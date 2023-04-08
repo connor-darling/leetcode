@@ -1,3 +1,4 @@
+// This is a recursive backtracking solution, not a dp solution
 class Solution {
 public:
   vector<vector<int>> combinationSum(vector<int> &candidates, int target) {
